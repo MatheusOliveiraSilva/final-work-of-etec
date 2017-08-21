@@ -3,7 +3,7 @@ This is my final work in my technical course completed in june of 2015. There ar
 
 # How To Install
 ## Database
-1. Install MySQL Server Database;
+1. Install MySQL Server Database (download at here: https://dev.mysql.com/downloads/mysql/);
 2. Create a connection;
 3. The user of the connection must to be "root" and the password "eagle" (without quotation marks);
 4. Connect as localhost;
