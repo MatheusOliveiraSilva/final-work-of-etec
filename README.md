@@ -18,5 +18,7 @@ This is my final work in my technical course completed in june of 2015. There ar
 3. READY!
 
 ## Font Code
-1. Open any version of Visual Studio 2010 or superior version;
-2. 
+1. Install Dev Express (download here: https://www.devexpress.com/ClientCenter/DownloadManager/);
+2. Open any version of Visual Studio 2010 or superior version;
+3. Open Visual Studio and import the project "Seguro Fácil(codigo fonte)" available in the folder "Sistema";
+4. READY! JUST USE THE CODE!  
